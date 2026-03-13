@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ## 运行方式
 
 1. 点击下方按钮在 Google Colab 中打开：
-   [![Open In Colab](https://colab.research.google.com/github/peacewhile/PHM-Learning-Task/blob/main/NGAFID_DATASET_MINIROCKET_EXAMPLE8.ipynb)]
+   [https://colab.research.google.com/github/peacewhile/PHM-Learning-Task/blob/main/NGAFID_DATASET_MINIROCKET_EXAMPLE8.ipynb]
 
 2. 运行时 → 全部运行
 
