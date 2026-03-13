@@ -108,15 +108,7 @@ pip install -r requirements.txt
 
 ---
 
-## 文件结构
 
-NGAFID_PROJECT/
-├── NGAFID_DATASET_MINIROCKET_EXAMPLE8.ipynb  # 主代码
-├── requirements.txt                           # 依赖列表
-├── AI协作日志.md                              # AI协作记录
-└── README.md                                  # 项目说明
-
----
 
 ## AI 协作说明
 
